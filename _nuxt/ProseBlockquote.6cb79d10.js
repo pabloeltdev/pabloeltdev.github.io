@@ -1,1 +1,0 @@
-import{_ as o}from"./entry.fa10d76e.js";import{H as r,I as t,Z as c}from"./swiper-vue.799c8af8.js";const s={};function n(e,l){return r(),t("blockquote",null,[c(e.$slots,"default")])}const _=o(s,[["render",n]]);export{_ as default};
